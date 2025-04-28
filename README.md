@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript**, **Node.js**, **Backend Development**
 
-- 📫 How to reach me: **urozov04@gmail.com** (agar emailingni ham berishni istasang yozib qo'yaman)
+- 📫 How to reach me: **durozov46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
