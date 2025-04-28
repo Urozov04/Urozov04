@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/urozov04" target="blank"><img align="center" src="https://raw.githubusercontent.com/urozov04/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dilshod_urozov_ddc" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abduhamid-rahimov-882674343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abduhamid-rahimov-882674343" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dilshod-urozov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abduhamid-rahimov-882674343" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rahimov0613/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rahimov0613/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/rahimov0613/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rahimov0613/" height="30" width="40" /></a>
 </p>
