@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilshod Urozov</h1>
+<h1 align="center">Hi 👋, I'm Dilshodbek Urozov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 - 📝 I regularly write articles on [Telegram Channel](https://t.me/urozov_dilshod)
